@@ -1,4 +1,4 @@
-#Project 5 - BeReal Clone Part I
+# Project 5 - BeReal Clone Part I
 
 Submitted by: Efrain Rodriguez
 

@@ -60,12 +60,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-**Camera and blur pictures feature**
-
+**Camera and blur pictures feature:**
 https://user-images.githubusercontent.com/93145681/224151827-c9d1bdfc-0fc4-4db3-a543-d638551ee4c7.mov
 
-**Persisted Login Feature**
 
+
+
+**Persisted Login Feature:**
 https://user-images.githubusercontent.com/93145681/224151910-f128b446-5f17-4981-aa40-d78891617d39.mov
 
 

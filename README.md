@@ -36,14 +36,13 @@ https://user-images.githubusercontent.com/93145681/221953262-8028e93e-05b4-44bc-
 https://user-images.githubusercontent.com/93145681/221954572-0f4ec013-8b99-4daa-9949-f55896c8af67.mov
 
 
-
 ## Notes
 **Describe any challenges encountered while building the app.**
  One of the challenges that I faced while building the app is the auto layout constraints.
  
  
+ 
  # Project 5 - BeReal Clone Part II
-
 **About the App:**
 BeReal Clone is an app that is similar to photo social media applications. In this second part of BeReal, the user will have the ability to use their camera from an iOS device, take a picture, crop it, add a caption and then post it into their feed. In addition, a user who signs up will not be able to user other's user posts until they post a picture. Other user pictures will be blurred, when the picture is posten, then other user's pictures will be revealed. In addition, if user switches app, the application will not log out user profile. 
 

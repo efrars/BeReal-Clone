@@ -2,7 +2,7 @@
 
 Submitted by: Efrain Rodriguez
 
-**BeReal Clone is an app that is similar to photo social media applications. In this part I of the project, the user is able to create an account by signing up. When user creates an account, then a feed with "Post a Photo" button will let the user post a picture with a caption to their feed. 
+**BeReal Clone is an app that is similar to photo social media applications. In this part I of the project, the user is able to create an account by signing up. When user creates an account, then a feed with "Post a Photo" button will let the user post a picture with a caption to their feed**. 
 
 Time spent: 10 hours spent in total
 
